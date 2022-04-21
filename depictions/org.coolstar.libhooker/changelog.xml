@@ -1,0 +1,13 @@
+<changelog>
+	<changes>
+		<version>1.6.9</version>
+		<change>Latest Version</change>
+		<change>Add Initial Support for iOS 15</change>
+		<change>Add support for tweaks to hook libhooker itself</change>
+		<change>Add support for hooking more system methods<change>
+	</changes>
+	<changes>
+		<version>1.6.3</version>
+		<change>Add userspace reboot support for odysseyra1n</change>
+	</changes>
+</changelog>

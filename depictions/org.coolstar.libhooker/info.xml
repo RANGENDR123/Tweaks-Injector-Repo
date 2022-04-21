@@ -1,0 +1,46 @@
+<package>
+	<id>org.coolstar.libhooker</id>
+	<name>libhooker</name>
+	<version>1.6.8</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>General Purpose Injection and Hooking library for 64-bit devices</shortDescription>
+	<descriptionlist>
+		<description>A revolutionary injection library for arm64 devices!</description>
+		<description>libhooker 1.6.9, compatible for iOS 11 - later.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Cydia Homepage</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>libhooker Logo</description>
+			<image>libhooker.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Latest Version (1.6.9)</change>
+		<change>Add Initial Support for iOS 15</change>
+		<change>Add support for tweaks to hook libhooker itself</change>
+		<change>Add support for hooking more system methods<change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak (for all jailbreak)</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
