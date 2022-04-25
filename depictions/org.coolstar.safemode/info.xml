@@ -1,7 +1,7 @@
 <package>
-	<id>org.coolstar.libhooker</id>
-	<name>libhooker</name>
-	<version>1.6.9</version>
+	<id>org.coolstar.safemode</id>
+	<name>Safe Mode (libhooker)</name>
+	<version>1.1.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -10,10 +10,10 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>General Purpose Injection and Hooking library for 64-bit devices</shortDescription>
+	<shortDescription>Safe Mode app for libhooker</shortDescription>
 	<descriptionlist>
-		<description>A revolutionary injection library for arm64 devices!</description>
-		<description>libhooker 1.6.9, compatible for iOS 11 - later.</description>
+		<description>Safe Mode app for libhooker</description>
+		<description>Safe Mode (libhooker 1.1.4, compatible for iOS 11 - later.</description>
 		<description><![CDATA[
 		You can also have<br/> 
 		a multi-line item.
@@ -26,15 +26,13 @@
 			<image>cydia.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>libhooker Logo</description>
+			<description>libhooker original Logo</description>
 			<image>libhooker.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Latest Version (1.6.9)</change>
-		<change>Add Initial Support for iOS 15</change>
-		<change>Add support for tweaks to hook libhooker itself</change>
-		<change>Add support for hooking more system methods<change>
+		<change>Latest Version (1.1.4)</change>
+		<change>No Changes</change>
 	</changelog>
 	<links>
 		<link>

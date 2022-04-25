@@ -1,0 +1,17 @@
+<changelog>
+	<changes>
+		<version>1.3</version>
+		<change>Latest Version</change>
+		<change>Add search bar to lists of Applications / Daemons (Thanks Amy)</change>
+		<change>Fix typos</change>
+		<change>Turkish and Vietnamese Translations<change>
+	</changes>
+	<changes>
+		<version>1.2</version>
+		<change>Add support for iOS 12</change>
+		</change>Use UIKit</change>
+		</change>Fix typo with userspace reboot title</change>
+		</change>fix popover on iPad</change>
+		</change>Improve support for iOS 13.0 - 13.3</change>
+	</changes>
+</changelog>
