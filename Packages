@@ -50,7 +50,7 @@ Size: 268708
 MD5sum: b4379721e1c144af4882cd679625cb11
 SHA1: feee271c46217dca779a4ae1f81c71cbca5cc292
 SHA256: 0861ac9bf94954c73affa4ef5d0cccb9084d0431c64f6434c83e12bab8bf249d
-Description: org.coolstar.libhooker (>=1.4.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), firmware (>= 12.0)
+Description: Configuration Utility for libhooker
 Icon: https://repo.theodyssey.dev/depictions/icons/libhooker.png
 Name: libhooker-contigurator
 Author: CoolStar <coolstarorganization@gmail.com>
